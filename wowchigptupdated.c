@@ -160,7 +160,7 @@ int main() {
     printf("\n\n");
 
     char input_text[256];
-    char *api_key = "AIzaSyDosoMz4WDVyGK0TB6Twi_qPVzmsaOBPSI"; // API key
+    char *api_key = "put your api key here"; // API key
     char *response, *result;
 
     // Get the input text
